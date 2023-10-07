@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shellcode解密加载", "Shellcode解密加载\Shellcode解密加载.csproj", "{F1C44929-B017-4F7F-B706-73A8C0DD69D9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1C44929-B017-4F7F-B706-73A8C0DD69D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C44929-B017-4F7F-B706-73A8C0DD69D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C44929-B017-4F7F-B706-73A8C0DD69D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C44929-B017-4F7F-B706-73A8C0DD69D9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3112241E-796B-47C8-B699-5B6C77336B3D}
+	EndGlobalSection
+EndGlobal

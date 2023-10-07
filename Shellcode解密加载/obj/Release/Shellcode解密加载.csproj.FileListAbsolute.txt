@@ -1,0 +1,6 @@
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\bin\Release\Shellcode解密加载.exe
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\bin\Release\Shellcode解密加载.pdb
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\obj\Release\Shellcode解密加载.csproj.AssemblyReference.cache
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\obj\Release\Shellcode解密加载.csproj.CoreCompileInputs.cache
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\obj\Release\Shellcode解密加载.exe
+E:\Source Code\C_code\Shellcode解密加载\Shellcode解密加载\obj\Release\Shellcode解密加载.pdb
